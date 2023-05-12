@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp5
 {
+
     struct infoKala
     {
         public string name;
